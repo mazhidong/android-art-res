@@ -1,7 +1,9 @@
 # android-art-res
 《Android开发艺术探索》书中源代码
+《Android开发艺术探索》图书勘误
 
 欢迎关注我的公众号，会持续更新Android干货
+http://blog.csdn.net/singwhatiwanna/article/details/48439621
 
 <img src="http://mmbiz.qpic.cn/mmbiz_jpg/zKFJDM5V3WzzNpnqOGq3mMO64mFVSicAIkzUSiam08j6DetjnjeujRjEAZRe7PqmPGqow3GWxSk4gas6r7BA4k6A/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1" width = "200px"  alt="cover" />
 
